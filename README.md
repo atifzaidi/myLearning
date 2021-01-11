@@ -1,2 +1,5 @@
 # myLearning
-Self Learning
+
+This is my self learning project.
+
+## JavaScript
